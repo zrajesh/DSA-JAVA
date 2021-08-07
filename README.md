@@ -7,10 +7,10 @@ Some Data Structures and Algorithm questions with Java.
 
 ## Topics Covered
 
-[Array](https://github.com/zrajesh/DSA-JAVA/Array)
+[Array](https://github.com/zrajesh/DSA-JAVA/tree/master/Array)
 
-[HashTable](https://github.com/zrajesh/DSA-JAVA/HashTable)
+[HashTable](https://github.com/zrajesh/DSA-JAVA/tree/master/HashTable)
 
-[Recursion](https://github.com/zrajesh/DSA-JAVA/Recursion)
+[Recursion](https://github.com/zrajesh/DSA-JAVA/tree/master/Recursion)
 
   
