@@ -9,8 +9,8 @@ Some Data Structures and Algorithm questions with Java.
 
 [Array](https://github.com/zrajesh/DSA-JAVA/Array)
 
-[HashTable](https://linktodocumentation/HashTable)
+[HashTable](https://github.com/zrajesh/DSA-JAVA/HashTable)
 
-[Recursion](https://linktodocumentation/Recursion)
+[Recursion](https://github.com/zrajesh/DSA-JAVA/Recursion)
 
   
